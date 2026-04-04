@@ -1,6 +1,6 @@
 # ☕ Coffee Demand Intelligence Dashboard
 
-### Data-Driven Forecasting & Peak Demand Prediction
+### Data-Driven Forecasting & Peak Demand Prediction for Afficionado Coffee Roasters
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
