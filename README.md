@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-🔗 Streamlit App: *(Add after deployment)*
+🔗 Streamlit App: https://your-app.streamlit.app
 🔗 GitHub Repository: https://github.com/Kdsingh82405/coffee-demand-intelligence
 
 ---
