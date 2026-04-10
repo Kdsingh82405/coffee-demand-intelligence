@@ -245,7 +245,9 @@ coffee-demand-intelligence/
 ## 👤 Author
 
 **Kundan Kumar Singh**
+
 🎓 MCA Student | Data Analyst
+
 🔗 GitHub: https://github.com/Kdsingh82405
 
 ---
