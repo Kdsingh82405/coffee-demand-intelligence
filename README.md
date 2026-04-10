@@ -9,13 +9,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-🔗 Streamlit App: https://your-app.streamlit.app
-🔗 GitHub Repository: https://github.com/Kdsingh82405/coffee-demand-intelligence
-
----
-
 ## 📖 Project Overview
 
 This project focuses on building a data-driven forecasting system to analyze and predict coffee sales demand across multiple store locations.
@@ -201,6 +194,16 @@ The dataset contains transactional-level data with the following key features:
 * **Machine Learning:** Scikit-learn
 * **Visualization:** Plotly
 * **Dashboard:** Streamlit
+
+---
+
+## 🚀 Live Demo
+
+🔗 Streamlit App: https://coffee-demand-intelligence-pbyne4ynxeuzqr5w7keuhb.streamlit.app/
+
+🔗 GitHub Repository: https://github.com/Kdsingh82405/coffee-demand-intelligence
+
+🔗 Research Paper (DOI): https://doi.org/10.5281/zenodo.19437138
 
 ---
 
