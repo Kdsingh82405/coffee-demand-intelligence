@@ -18,7 +18,14 @@ Coffee retail demand is highly dynamic, with fluctuations driven by time of day,
 The goal is to shift from intuition-based decision-making to a structured, data-driven approach for improving efficiency and customer experience.
 
 ---
+## 🌐 Live Demo
+🔗 [Open Dashboard](https://coffee-demand-intelligence-pbyne4ynxeuzqr5w7keuhb.streamlit.app)
 
+## 📄 Research Paper
+**Data-Driven Forecasting & Peak Demand Prediction for Afficionado Coffee Roasters**  
+🔗 [Read Published Paper](https://zenodo.org/records/19437138)
+
+---
 ## 🚀 Key Highlights
 
 ✔ Real-world retail forecasting problem
